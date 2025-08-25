@@ -10,7 +10,7 @@ let TTTT = tap.trans & hold.trans in
 {
   layers = [
     [ # Layer 0
-      tap.reg.mod.lalt & tap.reg.mod.lsft & kc.M,, 
+      tap.reg.mod.lalt & tap.reg.mod.lsft & kc.M,
     ],
 
   ]
